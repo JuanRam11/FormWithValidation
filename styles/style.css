@@ -1,0 +1,14 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #22577a;
+}
+
+#form {
+}
+button {
+  background-color: #38a3a5;
+}
